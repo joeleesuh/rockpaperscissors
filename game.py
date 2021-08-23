@@ -16,7 +16,7 @@ paper beats rock.
 
 In this program a human plays against an AI. The AI choses randomly
 (we promise). The game is repeated N_GAMES times and the human gets
-a total score. Each win is worth +1 points, each loss is worth -1
+a total score. Each win is worth +1 points, each loss is worth -1.
 """
 import random
 
